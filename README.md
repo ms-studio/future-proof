@@ -27,7 +27,7 @@ This one-day work session proposes to take a step back, and get a broader view o
 
 * 13h00 - 13h30 - **Presentation: Stack and flow** - applying long-term thinking to your content.
 * 13h30 - 14h00 - **Practical session:** define your editorial content calendar.
-* 14h30 - 15h00 - Questions and answers.
+* 14h30 - 15h00 - **Questions and answers**.
 * 15h00 - 15h30 - Wrapping up.
 
 ## Ask any questions
