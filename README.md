@@ -19,15 +19,15 @@ This one-day work session proposes to take a step back, and get a broader view o
 
 *  9h00 - 9h30 - **Introduction into Design Principles** (condensed version of [this](https://www.slideshare.net/xsetpointer/le-design-du-html5-remix) presentation).
 *  9h30 - 10h00 - **Practical session:** define your Design Principles - write your project's README.
-* 10h00 - 10h30 - coffee break and discussion
+* 10h00 - 10h30 - coffee break and free discussion
 * 10h30 - 11h00 - **Introduction into Style Guides and Pattern Libraries**
 * 11h00 - 11h30 - **Practical session:** document your code, define your patterns
 
-Lunch Break
+**Lunch Break**
 
-* 13h00 - 13h30 - Activity to be defined
-* 13h30 - 14h00 - Activity to be defined
-* 14h30 - 15h00 - Questions and practical work
+* 13h00 - 13h30 - To be defined
+* 13h30 - 14h00 - To be defined
+* 14h30 - 15h00 - Questions and answers
 * 15h00 - 15h30 - Wrapping up
 
 
