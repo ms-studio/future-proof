@@ -11,25 +11,24 @@ A one-day intervention by Manuel Schmalstieg, in the frame of the course *[IDA11
 
 ## Intro: 
 
-It's the end of May. You are finishing the 3rd quarter of the project, with 3 weeks left until completion. Your website is now well on it's way, you have the fundamentals working, and are concentrating on the individual details that matter most to you, the things that make your project unique.
+It's the end of May. You are finishing the 3rd quarter of the project, with 3 weeks left until completion. Your website is now well on it's way. You got the fundamentals working, and are concentrating on the individual details that matter most to you, the things that make your project unique and awesome.
 
-This one-day work session proposes to take a step back, and get a broader view on your project, with the purpose on making it future-proof. You will apply some long-term thinking, and invest some time in documentation, code review and cleanup. By taking cue from best development practices, you will make your project more systematic, so it can scale, expand and embrace future changes.
+This one-day work session proposes to take a step back, and get a broader view on your project, with the purpose on making it future-proof. You will apply *long-term thinking*, and invest some time in *documentation*, *code review* and *cleanup*. By taking cue from best development practices, you will make your project more systematic, allowing it to scale, expand and embrace future changes.
 
 ## What we will do:
 
 *  9h00 - 9h30 - **Presentation: Design Principles** (condensed version of [this](https://www.slideshare.net/xsetpointer/le-design-du-html5-remix) presentation).
 *  9h30 - 10h00 - **Practical session:** define your Design Principles - write your project's README.
-* 10h00 - 10h30 - coffee break and free discussion
-* 10h30 - 11h00 - **Presentation: Style Guides and Pattern Libraries**
-* 11h00 - 11h30 - **Practical session:** document your code, define your patterns
+* 10h00 - 10h30 - coffee break and open discussion.
+* 10h30 - 11h00 - **Presentation: Style Guides and Pattern Libraries**.
+* 11h00 - 11h30 - **Practical session:** document your code, define your patterns.
 
 **Lunch Break**
 
-* 13h00 - 13h30 - **Presentation: Stack and flow:** applying long-term thinking to your content.
-* 13h30 - 14h00 - **Practical session:** define your editorial content calendar for the upcoming months.
+* 13h00 - 13h30 - **Presentation: Stack and flow** - applying long-term thinking to your content.
+* 13h30 - 14h00 - **Practical session:** define your editorial content calendar.
 * 14h30 - 15h00 - Questions and answers.
 * 15h00 - 15h30 - Wrapping up.
-
 
 ## Ask any questions
 
