@@ -6,7 +6,7 @@ A one-day intervention by Manuel Schmalstieg, in the frame of the course *[IDA11
 
 * **Date:** Tuesday May 23, 2017 
 * **Schedule:** 9h - 11h30 / 13h - 15h30
-* **Location:** Sentimattstrasse 1, 6003 Luzern
+* **Location:** HSLU, Viscosistadt, Raum 454, Emmenbrücke
 * **Language:** English / German
 
 ## Intro: 
